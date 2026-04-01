@@ -12,4 +12,5 @@ if (isLoggedIn) {
   console.log("Please log in first.");
 }
 
-// Fix: added complete if...else conditional  {console.log("Please log in first.");
+// Fix: added complete if...else conditional
+// else {console.log("Please log in first.");

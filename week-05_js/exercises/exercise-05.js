@@ -14,11 +14,3 @@ console.log("Price: $" + displayPrice);
 // Fix: added : between salePrice & originalPrice;
 
 //-------copy exercise-----------
-/*
-const isOnSale = true;
-const salePrice = 29.99;
-const originalPrice = 49.99;
-
-const displayPrice = isOnSale ? salePrice originalPrice;
-console.log("Price: $" + displayPrice);
-*/

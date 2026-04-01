@@ -11,11 +11,3 @@ const buttonLabel = stock === 0 ? "Out of Stock" : "Add to Cart";
 console.log(buttonLabel);
 
 // Fix: changed > to ===
-
-//-------copy exercise-----------
-/*
-const stock = 0;
-
-const buttonLabel = stock > 0 ? "Out of Stock" : "Add to Cart";
-console.log(buttonLabel);
-  */

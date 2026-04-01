@@ -13,4 +13,4 @@ if (cartTotal >= 1000) {
   console.log("Add more items for free shipping.");
 }
 
-// Fix: add = behind > cause cartTotal is "1000 or more"
+// Fix: added = behind > cause cartTotal is "1000 or more"

@@ -15,15 +15,3 @@ if (isMember || cartTotal > 500) {
 }
 
 // Fix: changed && (AND) to || (OR)
-
-//-------copy exercise-----------
-/*
-const isMember = false;
-const cartTotal = 600;
-
-if (isMember && cartTotal > 500) {
-  console.log("Discount applied!");
-} else {
-  console.log("No discount available.");
-}
-  */

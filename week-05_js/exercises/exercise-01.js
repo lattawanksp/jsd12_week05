@@ -11,4 +11,4 @@ if (stockStatus === "available") {
   console.log("Out of stock");
 }
 
-// Fix: use === (strict equality)
+// Fix: used === (strict equality)
